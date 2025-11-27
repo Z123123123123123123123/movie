@@ -10,7 +10,7 @@ spring:
     redis:
       #使用前缀
       use-key-prefix: true
-      #redis过期时
+      #redis过期
       time-to-live: 60s
 mybatis-plus:
   global-config:
