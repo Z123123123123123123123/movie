@@ -8,7 +8,7 @@ spring:
     password: 3CGTMaeXrCdB5rBn
   cache:
     redis:
-      #使
+      #
       use-key-prefix: true
       time-to-live: 60s
 mybatis-plus:
